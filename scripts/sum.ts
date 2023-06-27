@@ -1,4 +1,4 @@
-import { add } from "../lib/add";
+import { add } from "../src/add";
 
 function main() {
   const sum = add(10, 20);
