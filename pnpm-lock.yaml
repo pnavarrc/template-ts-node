@@ -47,6 +47,9 @@ devDependencies:
   ts-node:
     specifier: ^10.9.1
     version: 10.9.1(@types/node@20.3.2)(typescript@5.1.5)
+  typescript:
+    specifier: ^5.1.5
+    version: 5.1.5
 
 packages:
   /@ampproject/remapping@2.2.1:
